@@ -1,0 +1,50 @@
+[
+  {
+    "id": "prod_001",
+    "titulo": "Organizador Giratório para Temperos",
+    "descricao": "Suporte giratório 360° para até 12 potes de tempero. Organiza sua cozinha de forma prática e elegante. Material resistente, fácil de limpar.",
+    "preco": 39.90,
+    "preco_original": 59.90,
+    "comissao": 12.0,
+    "plataforma": "shopee",
+    "link_afiliado": "COLE_AQUI_O_LINK_AFILIADO_DA_SHOPEE",
+    "imagens": [
+      "https://m.media-amazon.com/images/I/61kQVQquZRL._AC_SX679_.jpg"
+    ],
+    "video_original": "",
+    "avaliacao": 4.8,
+    "vendas": 230
+  },
+  {
+    "id": "prod_002",
+    "titulo": "Descascador Multifuncional 5 em 1",
+    "descricao": "Descasca batata, cenoura, chuchu, pepino e mais. Lâmina em aço inox, cabo ergonômico antiderrapante, fácil de limpar na água corrente.",
+    "preco": 24.90,
+    "preco_original": 44.90,
+    "comissao": 15.0,
+    "plataforma": "mercadolivre",
+    "link_afiliado": "COLE_AQUI_O_LINK_AFILIADO_DO_MERCADO_LIVRE",
+    "imagens": [
+      "https://m.media-amazon.com/images/I/61sivz-rYJL._AC_SY300_SX300_QL70_ML2_.jpg"
+    ],
+    "video_original": "",
+    "avaliacao": 4.7,
+    "vendas": 415
+  },
+  {
+    "id": "prod_003",
+    "titulo": "Escorredor de Louça com Bandeja Retrátil",
+    "descricao": "Design compacto com bandeja que retrai para não acumular água no balcão. Suporta pratos, copos e talheres. Até 8kg de capacidade.",
+    "preco": 67.90,
+    "preco_original": 99.90,
+    "comissao": 10.0,
+    "plataforma": "shopee",
+    "link_afiliado": "COLE_AQUI_O_LINK_AFILIADO_DA_SHOPEE",
+    "imagens": [
+      "https://m.media-amazon.com/images/I/71JRIdVx+xL._AC_SX679_.jpg"
+    ],
+    "video_original": "",
+    "avaliacao": 4.9,
+    "vendas": 188
+  }
+]

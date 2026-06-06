@@ -1,0 +1,28 @@
+# ╔══════════════════════════════════════════════════════════╗
+# ║              ARQUIVO DE CONFIGURAÇÃO (.env)             ║
+# ║   Renomeie este arquivo de .env.exemplo para .env       ║
+# ║   NUNCA compartilhe este arquivo com ninguém!           ║
+# ╚══════════════════════════════════════════════════════════╝
+
+# ── ANTHROPIC (Claude AI — para gerar roteiros) ────────────
+# Como obter: https://console.anthropic.com → API Keys
+ANTHROPIC_API_KEY=sk-seu_token_claude_aqui
+
+# ── ELEVENLABS (Voz — para gerar o áudio narrado) ──────────
+# Como obter: https://elevenlabs.io → Profile → API Key
+ELEVENLABS_API_KEY=sk_seu_token_elevenlabs_aqui
+
+# ID da voz brasileira escolhida no ElevenLabs
+# Como obter: ElevenLabs → Voices → clique na voz → copie o ID
+ELEVENLABS_VOICE_ID=YU8EsJtXFMyKMxYtheDk
+
+# ── TELEGRAM BOT (bot que te envia os vídeos e textos criados) ────
+# Como obter: siga as instruções no LEIA-ME (passo 3)
+TELEGRAM_TOKEN=seu_token_aqui
+TELEGRAM_CHAT_ID=seu_chat_id_aqui
+
+# ── MERCADO LIVRE AFILIADOS (opcional — busca automática) ──
+# Como obter: https://developers.mercadolivre.com.br
+# Deixe em branco se ainda não tiver
+ML_CLIENT_ID=
+ML_ACCESS_TOKEN=
